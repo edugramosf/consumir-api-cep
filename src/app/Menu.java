@@ -46,7 +46,5 @@ public class Menu {
         } catch (Exception e) {
             System.out.println("Erro ao criar o arquivo: "  + e.getMessage());
         }
-
-        System.out.println("Programa finalizado.");
     }
 }
