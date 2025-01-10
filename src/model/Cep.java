@@ -45,7 +45,4 @@ public class Cep {
    public String toString() {
       return "Endereço [" + "CEP: " + cep + ", Logradouro: " + logradouro + ", Complemento: " + complemento + ", Bairro: " + bairro + ", Localidade: " + localidade + ", UF: " + uf + ", IBGE: " + ibge + "]";
    }
-
-
-
 }
